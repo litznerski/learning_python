@@ -1,6 +1,6 @@
 #
 # Example file for working with classes
-# small change
+# 
 
 class myClass():
   def method1(self):
